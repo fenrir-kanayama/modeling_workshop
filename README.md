@@ -74,8 +74,8 @@
 6. `http://localhost:8000/admin` にアクセスし、次のユーザでログインできることを確認できればセットアップ完了です。
 
     ```text
-    ユーザ名：admin
-    パスワード：admin
+    Username: admin
+    Password: admin
     ```
 
 7. インストールしたDocker Desktopを起動し、左側の `Containers/Apps` を選択し画面中央に表示される `workshop` となっているコンテナを `stop` し停止してください。
